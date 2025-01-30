@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 fuzzy-matcher = "0.3.7"
 
-[lints]
-workspace = true
+# [lints]
+# workspace = true
